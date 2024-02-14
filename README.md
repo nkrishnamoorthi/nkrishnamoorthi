@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Salesforce
 - 💞️ I’m looking to collaborate on Salesforce
-- 📫 How to reach me @ nkrishnamoorthi@gmail.cim
+- 📫 How to reach me @ nkrishnamoorthi@gmail.com
 
 <!---
 nkrishnamoorthi/nkrishnamoorthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
